@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "chrome",
-            "request": "launch",
-            "name": "Open Index.html",
+             "type": "chrome",
+             "request": "launch",
+            "Abhishek Yadav": "Open Index.html",
             "file": "c:\\Users\\vinayak\\Desktop\\Yadav\\Portfolio\\Index.html"
         }
     ]
-}
+} 
