@@ -8,7 +8,7 @@
              "type": "chrome",
              "request": "launch",
             "name": "Open Index.html",
-            "file": "c:\\Users\\vinayak\\Desktop\\Yadav\\Portfolio\\Index.html"
+            "file": "c:\\Users\\vinayak\\Desktop\\Yadav\\Portfolio\\index.html"
         }
     ]
 } 
